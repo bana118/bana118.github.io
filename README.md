@@ -5,7 +5,7 @@ Sandbox for static web technology
 My blog and portfolio -> https://banatech.net
 
 
-# Local with Nginx
+# Launch Local Server
 
 1. Open this repository with VSCode + Remote Container Extension ([Developing inside a Container using Visual Studio Code Remote Development](https://code.visualstudio.com/docs/remote/containers))
 
