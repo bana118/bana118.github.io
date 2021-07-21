@@ -1,0 +1,11 @@
+{
+    "name": "github-pages",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-azuretools.vscode-docker"
+    ],
+    "appPort": [
+        "8000:80"
+    ],
+    "postCreateCommand": "cp /workspaces/github-pages/nginx/default.conf /etc/nginx/conf.d/default.conf"
+}
