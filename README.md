@@ -15,7 +15,7 @@ My blog and portfolio -> https://banatech.net
 2. Run Nginx
 
 ```
-nginx
+service nginx start
 ```
 
 3. Access http://127.0.0.1:8000
