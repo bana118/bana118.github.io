@@ -1,5 +1,5 @@
 {
-    "name": "github-pages",
+    "name": "bana118.github.io",
     "dockerFile": "Dockerfile",
     "extensions": [
         "ms-azuretools.vscode-docker"
